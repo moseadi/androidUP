@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="105dp"
+    android:layout_width="match_parent" >
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="150dp"
+        android:layout_height="250dp"
+        android:padding="4dp"
+        android:src="@drawable/bu"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/judul"
+        android:layout_toEndOf="@+id/judul" />
+
+    <TextView
+        android:layout_width="210dp"
+        android:layout_height="30dp"
+        android:text="Nama makanan"
+        android:paddingTop="10dp"
+        android:gravity="left"
+        android:paddingLeft="5dp"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:id="@+id/judul" />
+
+    <TextView
+        android:id="@+id/keterangan"
+        android:layout_width="210dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/judul"
+        android:gravity="left"
+        android:paddingLeft="5dp"
+        android:paddingTop="10dp"
+        android:text="Deskripsi"
+        android:textSize="10dp"
+        android:textStyle="normal" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary"
+        android:layout_below="@id/keterangan"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="3dp" />
+</RelativeLayout>
