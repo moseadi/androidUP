@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            tools:text="Nama Masakan"
+            android:gravity="center"
+            android:textAllCaps="true"
+            android:layout_height="wrap_content"
+            />
+        <ImageView
+            android:id="@+id/gambar"
+            android:layout_width="280dp"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center"
+            tools:src="@drawable/bu"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="Bahan - Bahan :"
+            />
+        <TextView
+            android:id="@+id/bahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            tools:text="desc : "
+            android:layout_marginBottom="16dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="@string/cara"
+            />
+        <TextView
+            android:id="@+id/keterangan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            tools:text="desc : "
+            />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">RESEPKU</string>
+    <string name="bahan">Bahan - Bumbu : </string>
+    <string name="cara">Cara Membuat : </string>
+    <string-array name="judul_resep">
+        <item>"Omelet Mie"</item>
+        <item>"Rica - Rica Ayam"</item>
+        <item>Rendang</item>
+        <item>Tongseng Kambing</item>
+        <item>Sop Kaki Kambing</item>
+        <item>Semur Daging Cincang</item>
+        <item>Nasi Goreng Kambing</item>
+
+    </string-array>
+
+    <string-array name="keterangan_resep">
+        <item>"Satu bungkus dipadu dengan telur yang digoreng menghasilkan hidangan yang nikmat"</item>
+        <item>"Olahan ayam yang ditambah dengan cabai segar akan menghasilkan rasa yang lezat"</item>
+        <item>Daging adalah bahan yang mudah ditemui, dengan olahan rendang ini akan membuatnya semakin enak</item>
+        <item>Ini adalah salah satu masakan yang mudah dibuat dan sangat nikmat rasanya</item>
+        <item>Olahan sop kaki kambing ini sangat direkomendasikan untuk dibuat untuk penikmat sop</item>
+        <item>Semur ini adalah olahan dari daging dan sayur- sayuran sehingga sangat enak dan sehat</item>
+        <item>Nasi goreng adalah makanan yang sering kita temui, namun dengan campuran daging kambing semakin enak </item>
+       </string-array>
+
+    <string-array name="detail_resep">
+        <item>
+            1 bungkus mi\n
+            1 butir telor\n
+            penyedap rasa\n</item>
+        <item>
+            1 ekor ayam kampung,potong 8\n
+            bumbu ulek\n
+            8 btr bawang merah\n
+            6-7 cabe keriting\n
+            10-20 cabe rawit (sesuai selera)\n
+            1 cm jahe, iris2\n
+            1 btg sereh,ambil putih 3cm,iris2\n
+            3 lbr daun jeruk\n
+            2 ikat kemangi\n
+            1 bh tomat,potong 8 memanjang\n
+            garam,bumbu penyedap,gula secukupnya (sesuai selera)\n
+            secukupnya air\n</item>
+        <item>
+            1/2 kg daging sapi\n
+            6 siung bawang putih\n
+            5 siung bawang merah\n
+            3 lembar daun salam\n
+            3 batang serai\n
+            2 ruas lengkuas\n
+            2 ruas kunyit\n
+            2 ruas jahe\n
+            1 sdm merica\n
+            8 buah cabai merah besar (teropong)\n
+            6 buah cabai rawit\n
+            3 buah kemiri\n
+            3 buah gula merah\n
+            2 bungkus santan kara\n
+            2 sdm saori saus tiram\n
+            secukupnya Air\n</item>
+        <item>
+            400 g daging kambing\n
+            4 lembar daun salam\n
+            1 L air\n
+            800 ml santan encer dari ½ butir kelapa\n
+            2 cm lengkuas, memarkan\n
+            1 batang serai, ambil bagian putihnya, memarkan\n
+            150 g kol, potong kotak\n
+            2 batang daun bawang, potong 2 cm\n
+            1 buah tomat merah, potong-potong\n
+            3 butir bawang merah iris tipis\n
+            4 buah cabau rawit merah, iris\n
+            2 ½ sdm Kecap Manis Bango\n
+            4 sdm minyak, untuk menumis\n
+            Bumbu halus :\n
+            3 siung bawang putih\n
+            4 butir bawang merah\n
+            4 butir merica putih butiran\n
+            3 buah kemiri, sangrai\n
+            3 cm kunyit, bakar\n
+            2 cm jahe\n
+            1 sdt ketumbar butiran\n
+            1 ½  sdt garam\n</item>
+        <item>
+            500 g daging kambing kambing muda bagian paha, potong dadu 3 cm\n
+            2 ½ L air\n
+            1 L susu full cream\n
+            Minyak samin secukupnya\n
+            4 lembar daun jeruk\n
+            2 lembar daun salam\n
+            2 batang serai, memarkan\n
+            5 cm lengkuas, memarkan\n
+            1 sdt merica putih bubuk\n
+            3 sdm kecap manis Bango\n
+            2 sdt garam\n
+            1 buah jeruk limau\n
+            1 batang daun bawang, iris tipis\n
+            1 batang daun seledri, iris tipis\n
+            2 buah tomat, iris tipis\n
+            50 g emping\n
+            2 sdm minyak, untuk menumis\n
+            Bumbu, haluskan :\n
+            6 siung bawang putih\n
+            6 butir bawang merah\n
+            4 cm kayu manis\n
+            3 butir kemiri\n
+            3 butir cengkih\n
+            3 butir kapulaga\n
+            3 cm jahe\n
+            1 butir biji pala\n
+            1 sdm merica putih butiran\n</item>
+        <item>
+            150 gram daging sapi cincang\n
+            2 buah kentang, dipotong seukuran korek api\n
+            5 buah buncis, dipotong kecil-kecil\n
+            3 buah wortel, dipotong kecil-kecil\n
+            tomat, dipotong kecil-kecil\n
+            4 butir bawang merah, iris tipis\n
+            4 siung bawang putih, iris tips\n
+            1 sendok makan margarin\n
+            4 sendok makan Kecap Manis Bango\n
+            1/2 sendok teh kaldu sapi\n
+            1/2 sendok teh garam\n
+            1 sendok teh gula pasir\n
+            1/2 sendok teh lada putih bubuk\n
+            1/2 sendok teh pala, diparut\n
+            500 ml air\n</item>
+        <item>
+            4 piring nasi putih\n
+            250 gr daging kambing termasuk gajih\n
+            4 cm kayu manis\n
+            Minyak samin\n
+            Kecap Bango, secukupnya\n
+            Lada dan garam secukupnya\n
+            Bumbu Halus:\n
+            6 siung bawang putih\n
+            3 bawang merah\n
+            2 cabe merah keriting\n
+            ¼ sdt jintan bubuk\n
+            3 butir cengkeh\n
+            ¼ sdt kunyit bubuk\n
+            3 kapulaga\n
+            Garam secukupnya\n
+            Acar kol timun\n
+            1 buah timun, potong dadu\n
+            50 gr kol, iris halus\n
+            20 buah cabai rawit hijau\n
+            1 batang wortel, kupas, potong dadu\n</item>
+
+    </string-array>
+
+    <string-array name="cara_resep">
+        <item>
+            Rebus mi sampai matang ,kemudian tiriskan.\n
+            Kocok telur,tambahkan penyedap rasa , masukkan mi,dan kocok sampai rata.\n
+            Goreng sampai matang, kemudian potong-potong.\n</item>
+        <item>
+            Lumuri ayam dengan jeruk nipis 1 buah dan garam kasar, aduk rata sambil remas2, diamkan 15-30 menit,cuci bersih\n
+            Tumis bumbu ulek dengan daun jeruk hingga harum dan matang\n
+            Masukkan ayam,tomat 4 potong, beri air secukupnya, tambah garam\n
+            Masak hingga matang, jika ayam belum empuk beri air lagi sedikit\n
+            Setelah ayam empuk, masukkan daun kemangi dan sisa potongan tomat, aduk hingga kemangi layu\n
+            terakhir beri gula pasir secukupnya\n</item>
+        <item>
+            Cuci bersih daging dan bahan-bahannya\n
+            Haluskan semua bumbu, kecuali serai lengkuas, dan daun salam\n
+            Geprek serai dan lengkuas, lalu campurkan daun salam, bumbu halus dengan dagingnya. tambahkan santan dan air secukupnya\n
+            Masukkan ke panci presto, dan masak selama 20 menit\n
+            Pindah daging ke wajan, tambahkan sedikit air dan saori saus tiram\n
+            Rendang siap dihidangkan\n</item>
+        <item>
+            Didihkan air di dalam panci. Masukkan daging kambing dan 2 lembar daun salam, rebus hingga daging matang dan empuk.\n
+            Angkat dan buang airnya.\n
+            Potong daging menjadi dadu berukuran 2 cm.\n
+            Rebus santan, bumbu halus, daun salam, lengkuas dan serai sambil diaduk. Didihkan. Sisihkan.\n
+            Panaskan minyak. Tumis bawang merah, cabe rawit merah dan daging kambing hingga harum.\n
+            Tambahkan kol ke dalam tumisan, tumis hingga kol layu. Masukkan Kecap Manis Bango, aduk rata.\n
+            Tuangkan kuah santan, tunggu hingga mendidih.\n
+            Setelah kuah santan mendidih, tambahkan daun bawang dan tomat, masak hingga matang, sajikan hangat.\n
+            Untuk 4 porsi\n</item>
+        <item>
+            Potong daging menjadi kecil, rebus dalam 1 L air mendidih selama 15menit. Buang air rebusan.\n
+            Rebus kembali dalam air sebanyak 1 ½ L sampai empuk selama 1 - 1 1/2jam.\n
+            Ambil 1 L air rebusan kambing, masukan susu full cream. Aduk rata.\n
+            Tambahkan daun salam dan daun jeruk.\n
+            Lalu masukan serai dan lengkuas. Aduk rata.\n
+            Di wajan terpisah, tumis bumbu halus hingga harum.\n
+            Lalu masukkan ke dalam rebusan kuah daging. Aduk rata.\n
+            Terakhir tuangkan rebusan ke dalam mangkuk, tambahkan bawang goreng, emping , daun bawang dan seledri.\n
+        </item>
+        <item>
+            Potongan kentang digoreng sampai berkulit.\n
+            Panaskan 2 sendok makan margarin. Tumis potongan bawang merah dan bawang putih.\n
+            Masukkan daging cincang, masak sampai daging berubah warna.\n
+            Tambahkan kecap manis Bango, kaldu sapi, garam.\n
+            Masukkan wortel, buncis. Aduk rata. Masukkan air.\n
+            Masukkan potongan tomat, masak sampai matang.\n
+            Sajikan, lalu tabur kentang goreng diatasnya.\n
+            Untuk 4 porsi\n</item>
+        <item>
+            Ulek semua bahan bumbu halus. Ambil sepertiganya dan tumis dengan sedikit minyak samin.\n
+            Masukkan daging kambing, tumis hingga matang dan wangi, sisihkan.\n
+            Tumis sisa bumbu halus dengan minyak samin, lalu campurkan dengan daging kambing dan nasi, aduk rata.\n
+            Tambahkan Kecap Bango sesuai selera, aduk merata, lalu masukkan lada dan garam.\n
+            Sajikan bersama acar kol timun.\n
+            Acar Kol Timun:\n
+            Campurkan semua bahan. Remas dengan sedikit garam dan gula.\n
+            Bubuhi cuka secukupnya, diamkan semalam.\n
+        </item>
+
+    </string-array>
+</resources>
